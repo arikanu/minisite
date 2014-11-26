@@ -232,3 +232,28 @@
 2014-11-25 00:45:37,568 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2014-11-25 00:45:37,569 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2014-11-25 00:45:37,574 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-11-26 17:46:36,935 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.phoenix:minisite:1.0.0-BUILD-SNAPSHOT @ C:\Users\Desktop\Documents\GitHub\minisite\site\pom.xml.
+2014-11-26 17:46:38,050 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-11-26 17:46:38,055 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-11-26 17:46:38,059 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-11-26 17:46:38,062 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-11-26 17:46:38,064 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of site
+2014-11-26 17:46:38,065 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for site
+2014-11-26 17:46:38,068 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-11-26 17:46:43,921 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-11-26 17:46:43,981 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.phoenix:minisite:1.0.0-BUILD-SNAPSHOT @ C:\Users\Desktop\Documents\GitHub\minisite\site\pom.xml.
+2014-11-26 17:46:44,237 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /site/src/main/java
+2014-11-26 17:46:44,237 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /site/src/main/resources overlaps with sources folder /site/src/main/resources
+2014-11-26 17:46:44,238 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /site/src/test/java
+2014-11-26 17:46:44,238 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /site/src/test/resources overlaps with sources folder /site/src/test/resources
+2014-11-26 17:46:44,892 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.phoenix:minisite:1.0.0-BUILD-SNAPSHOT @ C:\Users\Desktop\Documents\GitHub\minisite\site\pom.xml.
+2014-11-26 17:46:45,048 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for site
+2014-11-26 17:46:45,054 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2014-11-26 17:46:46,263 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-11-26 17:46:46,266 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-11-26 17:46:46,271 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-11-26 17:46:46,275 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-11-26 17:47:09,763 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-11-26 17:47:09,777 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-11-26 17:47:09,782 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-11-26 17:47:09,791 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
