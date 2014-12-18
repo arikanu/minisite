@@ -1,0 +1,43 @@
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<%@ page session="false" %>
+
+
+<style>
+body {
+	font-family: Helvetica;
+	height: 100%;
+	width: 100%;
+	background-color: green;
+}
+h1 {
+margin-top: 3%;
+padding-bottom: 2%;
+text-align: center;
+font-size: 400%;
+border-bottom-style: solid;
+border-bottom-color: orange;
+border-bottom-width: 2px;
+}
+divVideo {
+}
+
+</style>
+
+
+<html>
+
+
+
+<head>
+	<title>Home</title>
+</head>
+<body>
+<h1>Test - Fu</h1>
+
+<P>  The time on the server is ${serverTime}. </P>
+ <iframe width="420" height="315"
+src="http://www.youtube.com/embed/XGSy3_Czz8k">
+</iframe> 
+
+</body>
+</html>

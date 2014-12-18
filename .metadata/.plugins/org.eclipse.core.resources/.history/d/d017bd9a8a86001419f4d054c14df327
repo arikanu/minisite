@@ -1,0 +1,34 @@
+package com.phoenix.minisite;
+
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.TimeZone;
+
+public class ExamDate {
+
+	private int day;
+	private int month;
+	private int year;
+	private int hour;
+	private int minute;
+	
+	public ExamDate(int day, int month, int year, int hour, int minute) {
+		this.day = day;
+		this.month = month;
+		this.year = year;
+		this.hour = hour;
+		this.minute = minute;
+	}
+	
+	public String getDateAndTime() {
+		DateFormat df = new SimpleDateFormat("yyyy-MM-dd");
+		df.setTimeZone(TimeZone.getTimeZone("Turkey"));
+		Calendar c = Calendar.getInstance();
+		c.set(this.year, this.month - 1, this.day + 1, this.hour, this.minute);
+		Date abc = c.getTime();
+		return "";
+	}
+	
+}

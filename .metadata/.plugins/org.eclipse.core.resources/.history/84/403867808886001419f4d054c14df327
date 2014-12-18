@@ -1,0 +1,21 @@
+package com.phoenix.minisite;
+
+import java.util.Date;
+import java.util.concurrent.TimeUnit;
+
+public class asdf {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Date date = new Date();
+		Date dateAlesIb = new Date();
+		
+		long diffAlesIb = getDateDiff(dateAlesIb, date, TimeUnit.DAYS);
+		String strAlesIb = Long.toString(diffAlesIb);
+		
+		System.out.println(strAlesIb);
+		
+	}
+
+}

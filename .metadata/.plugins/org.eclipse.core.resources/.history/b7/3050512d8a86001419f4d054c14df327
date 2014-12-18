@@ -1,0 +1,9 @@
+package com.phoenix.minisite;
+
+public class ExamDates {
+
+	private int day;
+	private int month;
+	private int year;
+	
+}

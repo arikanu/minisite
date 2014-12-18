@@ -1,0 +1,58 @@
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<%@ page session="false" %>
+
+
+<style>
+body {
+	font-family: Helvetica;
+	height: 100%;
+	width: 100%;
+	background-color: green;
+	float: left;
+}
+h1 {
+	margin-top: 3%;
+	padding-bottom: 2%;
+	text-align: center;
+	font-size: 400%;
+	border-bottom-style: solid;
+	border-bottom-color: orange;
+	border-bottom-width: 2px;
+}
+.divVideo {
+	text-align: center;
+}
+
+.divLeftPart {
+	width: 30%;
+}
+.divRightPart {
+	width: 50%;
+}
+
+</style>
+
+
+<html>
+
+
+
+<head>
+	<title>Home</title>
+</head>
+<body>
+<h1>Test - Fu</h1>
+
+<div class="divLeftPart">
+	<p>sdfsadf</p>
+	<p>sdfsadf</p>
+	<p>sdfsadf</p>
+</div>
+<div class="divLeftPart">
+	<div class="divVideo">
+	 	<iframe width="420" height="315" src="http://www.youtube.com/embed/XGSy3_Czz8k"></iframe> 
+	</div>
+</div>
+
+</body>
+</html>

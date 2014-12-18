@@ -1,0 +1,8 @@
+package com.phoenix.minisite;
+
+public class ExamDates {
+
+	private int alesIbDay = 10;
+	private int alesIbMonth = 05;
+	private int alesIbYear = 2015;
+}
